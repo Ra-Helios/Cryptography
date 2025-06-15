@@ -22,10 +22,10 @@ Title.append(":" , style="bold bright_white")
 
 # Menu Def:
 menu = Text(justify="center")
-menu.append("\n>> Encrypt                                       :e" , style="bold cyan1")
-menu.append("\n>> Decrpyt                                       :d" , style="bold green3")
-menu.append("\n>> Refresh Screen                                :r" , style="bold dark_orange3")
-menu.append("\n>> Exit                                          :x" , style="bold magenta3")
+menu.append("\n>> Encrypt                                  :e" , style="bold cyan1")
+menu.append("\n>> Decrpyt                                  :d" , style="bold green3")
+menu.append("\n>> Refresh Screen                           :r" , style="bold dark_orange3")
+menu.append("\n>> Exit                                     :x" , style="bold magenta3")
 
 # Crypt Def:
 C_def= [("a","l") , ("b","U") , ("c","L") , ("d","c") , ("e","O") , ("f","C") , ("g","T") , ("h","u") , ("i","t") , ("j","l.") , ("k","U.") , ("l","L.") , ("m","c.") , ("n","O.") , ("o","C.") , ("p","T.") , ("q","u.") , ("r","t.") , ("s","V") , ("t",">") , ("u","v") , ("v","<") , ("w","V.") , ("x",">.") , ("y","v.") , ("z","<.") , (" ","Z") , (".","X") , (">","rt") , ("<","ef")]
