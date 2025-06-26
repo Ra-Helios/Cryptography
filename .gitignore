@@ -1,2 +1,3 @@
 # Ignore Virtual Environment Directory
 .venv/
+AutoRunScripts/
